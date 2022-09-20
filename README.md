@@ -1,1 +1,1 @@
-# listexerxes
+Liste Xerxès : liste de points de grammaire et de phrases analysées d'après la Terminologie Grammaticale.
